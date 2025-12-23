@@ -2,6 +2,11 @@ console.log("Wizard Injector 2000 active.");
 
 const addWizard = function() {
     console.log("--- Wizard Debug Info ---");
+
+    if(!window.location.href.includes("editor")) {
+        console.log("⚠️ Not in editor mode");
+        return;
+    }
     
     // 1. Target the main article container
     const container = document.querySelector('article') || document.body; 
@@ -11,7 +16,7 @@ const addWizard = function() {
     const fileAnchor = document.querySelector('a[title="Edit This Page"]');
 
     if (!repoAnchor || !fileAnchor) {
-        console.warn("❌ Metadata anchors not found. Aborting injection.");
+        console.warn("❌ Metadata anchors not found.");
         console.log("Repo Anchor Found:", !!repoAnchor);
         console.log("File Anchor Found:", !!fileAnchor);
         return;
