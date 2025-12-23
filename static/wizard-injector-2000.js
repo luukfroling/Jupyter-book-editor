@@ -79,6 +79,6 @@ const addWizard = function() {
 if (window.location.href.includes("editor") || window.location.search.includes("wizard=true")) {
     console.log("Editor mode detected. Waiting 2 seconds for MyST to settle...");
     document.addEventListener("DOMContentLoaded", () => {
-        setTimeout(addWizard, 2000);
+        setTimeout(addWizard, 4000);
     });
 }
