@@ -1,22 +1,22 @@
++++
 # components
 
-:::{note}
-this is a note
+:::{note} Note with a changed title
+this is a note which I have changed
 :::
 
-:::{danger}
+:::{danger} Danger
 this is danger
 :::
 
-:::{warning}
+:::{warning} Warning
 this is warning
 :::
 
-:::{tip}
+:::{tip} Tip
 this is tip
 :::
 
-:::{hint}
+:::{hint} Hint
 this is hint
 :::
-
