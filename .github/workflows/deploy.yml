@@ -36,11 +36,6 @@ jobs:
       - name: Install MyST
         run: npm install -g mystmd
 
-      - name: install dependencies
-        run: |
-          npm install qrcode
-          npm install js-yaml
-
       - name: Build HTML Assets
         run: myst build --html
 
