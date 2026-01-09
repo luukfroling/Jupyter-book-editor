@@ -39,8 +39,7 @@ jobs:
       - name: Build HTML Assets
         run: myst build --html
 
-      - name: Inject Wizard Script
-        # Reference the FOLDER containing the action.yml
+      - name: Add wizard to book
         uses: luukfroling/Wizard-jb2/actions@main 
         with:
           script_url: "https://cdn.jsdelivr.net/gh/luukfroling/Wizard-jb2@main/script/start_wizard.js"
