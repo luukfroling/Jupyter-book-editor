@@ -1,8 +1,11 @@
 +++
 # components
 
-:::{note} Note with a changed title
-this is a note which I have changed
++++
+this is a direct update
+
+:::{note} Note
+this is a note
 :::
 
 :::{danger} Danger
