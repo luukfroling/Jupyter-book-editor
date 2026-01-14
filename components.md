@@ -1,6 +1,9 @@
 +++
 # components
 
++++
+this is a direct update
+
 :::{note} Note
 this is a note
 :::
