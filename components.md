@@ -1,7 +1,7 @@
 +++
 # components
 
-:::{note} Note with a changed title
+:::{note} Note
 this is a note
 :::
 
