@@ -2,7 +2,7 @@
 # components
 
 +++
-this is a direct update create pull request
+this is a direct update
 
 :::{note} Note
 this is a note
