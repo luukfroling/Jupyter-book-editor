@@ -1,8 +1,11 @@
 +++
 # components
 
-:::{note} Note with a changed title
-this is a note which I have changed with a pull request
++++
+this is a direct update create pull request
+
+:::{note} Note
+this is a note
 :::
 
 :::{danger} Danger
