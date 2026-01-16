@@ -30,4 +30,4 @@ this is hint
 E=mc^2
 ```
 
-which i can reference like this: \[]\(#test-label)&#x20;
+which i can reference like this: \[]\(#test-label-2)&#x20;
