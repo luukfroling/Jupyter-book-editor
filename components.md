@@ -22,4 +22,12 @@ this is tip
 
 :::{hint} Hint
 this is hint
+
+With an equation&#x20;
+
+```{math}
+:label: test-equation
+
+E=mc^2
+```
 :::
