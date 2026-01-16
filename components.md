@@ -22,12 +22,12 @@ this is tip
 
 :::{hint} Hint
 this is hint
-
-With an equation&#x20;
+:::
 
 ```{math}
-:label: test-equation
+:label: test-label
 
 E=mc^2
 ```
-:::
+
+which i can reference like this: \[]\(#test-label)
