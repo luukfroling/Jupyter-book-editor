@@ -30,7 +30,7 @@ this is hint
 E=mc^2
 ```
 
-which i can reference like this: ()\[#label] &#x20;
+which i can reference like this: [](#test-label)
 
 ```{math}
 :label: 2nd-eq
