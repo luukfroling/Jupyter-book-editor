@@ -31,3 +31,9 @@ E=mc^2
 ```
 
 which i can reference like this: ()\[#label] &#x20;
+
+```{math}
+:label: 2nd-eq
+
+E=mc^2
+```
