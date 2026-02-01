@@ -13,3 +13,7 @@ Important links:
 - When `?editor` is added to the url, the js file adds the editor. 
 
 this proof of concepts uses an iframe to minimise the changes done to the original project. I did try to add the app directly to Jupyter Book but quickly ran into issues regarding styling etc etc. 
+
+## development
+
+todo
