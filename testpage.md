@@ -129,3 +129,55 @@ Maak de demo spectaculair door pas vlakbij de rand hard te trekken.
 
 ### Met wasknijpers
 Scheur een stukje papier zoals in {numref}`Figuur {number} <fig_tearpiece>`. Kan ik door aan beide uiteinden tegelijk een rukje te geven het middenstuk helemaal los maken? Wat moet ik veranderen om dat wel te kunnen? Het blijkt dat als het middenstuk verzwaard wordt met een paar flinke paperclips, dan lukt het wel, dan heeft het middenstuk genoeg inertia (bron: Ruud Brouwer).
+
+```{figure} ../images/20250513_093759.jpg
+:width: 60%
+:name: fig_tearpiece
+
+Wat extra massa in het midden geeft voldoende traagheid om beide uiteinden tegelijk te scheuren.
+```
+
+```{iframe} https://youtube.com/embed/enduuPXLM9g
+:width: 60%
+:name: vid_4
+:aspectratio: auto 16 / 9
+:align: center
+
+Wat extra massa in het midden geeft voldoende traagheid om beide uiteinden tegelijk te scheuren.
+```
+
+
+### Met een mes en een appel
+Steek een mes een stukje in een appel zodat de appel aan het mes blijft hangen (zowel mes als appel kun je van leerlingen lenen). Timmer dan met een hard voorwerp op het lemmet van het mes. Je verwacht dat de appel van het mes zal vallen, maar het mes gaat er juist dieper in, de appel komt niet in beweging, traagheid! Voor een grote groep: neem een meloen of pompoen en een broodmes. Voor de uitleg, traagheid is weerstand tegen versnelling. Denk aan Newton's tweede wet: $F=ma$. Die massa is weerstand tegen versnelling, bij dezelfde kracht krijg je voor zwaardere voorwerpen een veel kleinere versnelling. In de bovenbouw kun je de analogie van deze formule laten zien met $U = R I$ in elektrische schakelingen. 
+
+```{iframe} https://youtube.com/embed/OGiPpFA3JIw
+:width: 60%
+:name: vid_5
+:aspectratio: auto 16 / 9
+:align: center
+
+Een bekende demo
+```
+## Rotatietraagheid
+### Met stokken, een bezem, en een hamer
+Zet een balpen rechtop op je hand en probeer die rechtop te houden. Lukt niet. Vind nu ergens in het lokaal een bezemsteel of bezem of meetlat of aanwijsstok. Zet die rechtop op je hand en probeer die rechtop te houden . Dat lukt heel goed. Hoe langer het voorwerp, des te gemakkelijker het gaat. Het voorwerp verzet zich tegen een rotatieversnelling, er is *rotatie traagheid*. 
+
+```{figure} ../images/20250513_094959.*
+:width: 70%
+:name: fig_959
+
+Zo balanceren gaat goed, maar wat nu als je de hamer omdraait?
+```
+
+Als er dan ook bovenaan nog een gewicht zit (bv. bezem op zijn kop of hamer), dan is het nog makkelijker te balanceren. Hoe langer het voorwerp, hoe verder het zwaartepunt van het contactpunt met de hand, des te groter de rotatietraagheid. Als je een hamer hebt, steel onder en hij is gemakkelijk te balanceren. Steel boven en metalen kop onder, dan is het moeilijk. Rotatietraagheid staat niet in het curriculum, dat is geen reden om het niet te demonstreren! 
+
+Bron: mijn vroegere student Alfredo Guirit, nu docent in Tagbilaran, Bohol, Philippines.
+
+```{iframe} https://youtube.com/embed/Ft9UD-xbqxQ
+:width: 60%
+:name: vid_6
+:aspectratio: auto 16 / 9
+:align: center
+
+Kun je een hamer balanceren op je vinger?
+```
