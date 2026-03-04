@@ -191,6 +191,8 @@ Met een volle rol toiletpapier, rol af de lengte die je nodig hebt, geef een ruk
 
 Wat gebeurt er als je een ruk geeft aan elk van de toiletrollen ? 
 ```
+update
+_soome strong text_
 
 ### Met een draadje en een kopje of ander breekbaar object 
 Maak nu de opstelling van {numref}`Figuur {number} <fig_RI3>`, een simpel bosje sleutels of beter een breekbaar kopje, een touwtje (bv. schoenveter), en een vinger of pen/potlood als as. Aan de andere kant van het touwtje een minder zwaar object (een schroef, een losse sleutel, wat dan ook). Vraag een voorspelling, als ik dit loslaat, wat gebeurt er dan? De docent acteert onzekerheid en vrees. Zou dit wel goed gaan? Dan, loslaten! Het tegengewicht wordt versneld en windt zich om het potlood. Dat doet de wrijving van touw/draad en potlood zozeer toenemen dat het kopje of de sleutels niet meer vallen. Voor een breed publiek gewoon vertellen wat je ziet. Een discussie staat op de [volgende site](https://sciencedemonstrations.fas.harvard.edu/presentations/coffee-mug-string)[^xc] met ook verwijzing naar een American Journal of Physics artikel voor een complete wiskundige behandeling.
