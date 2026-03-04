@@ -181,3 +181,25 @@ Bron: mijn vroegere student Alfredo Guirit, nu docent in Tagbilaran, Bohol, Phil
 
 Kun je een hamer balanceren op je vinger?
 ```
+
+### Met rollen toiletpapier 
+Met een volle rol toiletpapier, rol af de lengte die je nodig hebt, geef een ruk en het is los. Met een bijna lege rol, rol af de lengte die je nodig hebt, geef een ruk, en je krijgt een veel te lang stuk want de rol rolt door. De volle rol heeft een grotere weerstand tegen versnelling, een grotere rotatietraagheid. Waarschijnlijk kun je het toiletpapier voor demonstratie even lenen van de school, rol op een stokje, en klaar voor de demo. Nu heb je met rollen los op een stokje niet de wrijving tegen de muur die bij de volle rol wat extra meehelpt. Dus wel even oefenen in het heel snel een ruk geven.
+
+```{figure} ../figures/02-13RotationalInertia2LR.jpeg
+:width: 60%
+:name: fig_RI2
+
+Wat gebeurt er als je een ruk geeft aan elk van de toiletrollen ? 
+```
+
+### Met een draadje en een kopje of ander breekbaar object 
+Maak nu de opstelling van {numref}`Figuur {number} <fig_RI3>`, een simpel bosje sleutels of beter een breekbaar kopje, een touwtje (bv. schoenveter), en een vinger of pen/potlood als as. Aan de andere kant van het touwtje een minder zwaar object (een schroef, een losse sleutel, wat dan ook). Vraag een voorspelling, als ik dit loslaat, wat gebeurt er dan? De docent acteert onzekerheid en vrees. Zou dit wel goed gaan? Dan, loslaten! Het tegengewicht wordt versneld en windt zich om het potlood. Dat doet de wrijving van touw/draad en potlood zozeer toenemen dat het kopje of de sleutels niet meer vallen. Voor een breed publiek gewoon vertellen wat je ziet. Een discussie staat op de [volgende site](https://sciencedemonstrations.fas.harvard.edu/presentations/coffee-mug-string)[^xc] met ook verwijzing naar een American Journal of Physics artikel voor een complete wiskundige behandeling.
+
+[^xc]: https://tinyurl.com/59yxwhbd
+
+```{figure} ../figures/02-14-3RotationalInertia.JPG
+:width: 60%
+:name: fig_RI3
+
+Daday klaar om haar beker veilig te laten vallen.
+```
