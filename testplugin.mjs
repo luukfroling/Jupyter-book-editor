@@ -12,7 +12,7 @@ const plugin = {
         }
         // if node.children[0].children[0] exists, get its model object and log it
         if (node.children[0] && node.children[0].children[0]) {
-            const model = utils.getModel(node.children[0].children[0]);
+            const model = node.children[0].children[0].model;
             console.log('Model of first child:', model);
         }
       },
