@@ -273,18 +273,6 @@ const addToggleButton = function() {
     console.log("[wizard] Toggle button added to navbar.");
 };
 
-const initWizard = function() {
-    // Initialize: parse metadata, inject styles, and add the toggle.
-    // Do NOT auto-open the editor — default is original content. Users toggle when ready.
-    if (!parseMetadata()) {
-        return;
-    }
-    injectToggleStyles();
-    addToggleButton();
-};
-
-
-
 function render({ model, el }) {
 
     const navbar = document.querySelector('div.flex.items-center.flex-grow.w-auto');
@@ -295,7 +283,8 @@ function render({ model, el }) {
         else navbar.appendChild(loaderElement);
     }
 
-    initWizard();
+    injectToggleStyles();
+    addToggleButton();
 
 
     console.log(document);
