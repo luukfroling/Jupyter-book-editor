@@ -243,7 +243,9 @@ const addToggleButton = function() {
 
 
 function render({ model, el }) {   
-
+    if (!parseMetadata()) {
+        return;
+    }
     injectToggleStyles();
     addToggleButton();
 
