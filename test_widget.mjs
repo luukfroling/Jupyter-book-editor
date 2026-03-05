@@ -242,15 +242,7 @@ const addToggleButton = function() {
 };
 
 
-function render({ model, el }) {
-
-    const navbar = document.querySelector('div.flex.items-center.flex-grow.w-auto');
-    if (navbar) {
-        const themeButton = navbar.querySelector('.myst-theme-button');
-        loaderElement = createLoadingIndicator();
-        if (themeButton) themeButton.parentNode.insertBefore(loaderElement, themeButton);
-        else navbar.appendChild(loaderElement);
-    }
+function render({ model, el }) {   
 
     injectToggleStyles();
     addToggleButton();
