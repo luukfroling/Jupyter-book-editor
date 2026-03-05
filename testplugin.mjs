@@ -18,6 +18,7 @@ const plugin = {
                 }
             ]
         }
+        node.children.push(anyWidgetNode);
       },
     },
   ],
