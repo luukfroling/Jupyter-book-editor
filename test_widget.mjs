@@ -54,6 +54,9 @@ const createToggleButton = function() {
         const wrapper = document.createElement('label');
         wrapper.className = 'switch';
 
+        // Add label for getElementById to work, and for accessibility
+        wrapper.id = 'wizard-toggle';
+
         const checkbox = document.createElement('input');
         checkbox.type = 'checkbox';
         checkbox.setAttribute('aria-label', 'Toggle wizard editor');
@@ -246,9 +249,14 @@ function render({ model, el }) {
     if (!parseMetadata()) {
         return;
     }
-    injectToggleStyles();
-    addToggleButton();
 
+    // Check if toggle exists
+    if( document.getElementById('wizard-toggle') ) {
+        console.log("[wizard] Toggle button already exists, skipping creation.");
+    } else {
+        injectToggleStyles();
+        addToggleButton();
+    }
 
     console.log(document);
     console.log(model)
